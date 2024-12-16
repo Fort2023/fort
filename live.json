@@ -1,0 +1,42 @@
+[
+    {
+        "title": "谁是超级英雄？我！",
+        "author": "Danking",
+        "image": "./images/直播封面/danking.png"
+    },
+    {
+        "title": "FAZE VS SPIRIT总决赛",
+        "author": "玩机器丶Machine",
+        "image": "./images/直播封面/玩机器.png"
+    },
+    {
+        "title": "【新主播第一天播】卑微陪陪历险记",
+        "author": "卡尔",
+        "image": "./images/直播封面/卡尔.png"
+    },
+    {
+        "title": "直播苏格兰公开赛决赛 吴宜泽VS雷佩凡",
+        "author": "划线百嘉",
+        "image": "./images/直播封面/划线.png"
+    },
+    {
+        "title": "四川麻将联赛",
+        "author": "四川麻将联赛",
+        "image": "./images/直播封面/麻将.png"
+    },
+    {
+        "title": "【重播】双城联赛 门票争夺战 17日开战",
+        "author": "云顶之弈赛事",
+        "image": "./images/直播封面/云顶.png"
+    },
+    {
+        "title": "黑猴BOSS连战，实力主播",
+        "author": "狼王沃李克",
+        "image": "./images/直播封面/狼王.png"
+    },
+    {
+        "title": "荒野求生",
+        "author": "Grimmmz",
+        "image": "./images/直播封面/荒野.png"
+    }
+]
