@@ -1,0 +1,10 @@
+[
+    { "title": "海贼王", "image": "./images/动画/海贼.jpg" },
+    { "title": "火隐忍者", "image": "./images/动画/火影.jpg" },
+    { "title": "死亡笔记", "image": "./images/动画/死亡.jpg" },
+    { "title": "一拳超人", "image": "./images/动画/一拳.jpg" },
+    { "title": "排球少年", "image": "./images/动画/排球.jpg" },
+    { "title": "蓝色监狱", "image": "./images/动画/蓝色监狱.jpg" },
+    { "title": "鬼灭之刃", "image": "./images/动画/鬼灭.jpg" },
+    { "title": "咒术回战", "image": "./images/动画/咒术回站.jpg" }
+]
